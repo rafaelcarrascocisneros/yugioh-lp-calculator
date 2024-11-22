@@ -1,0 +1,15 @@
+{
+  "name": "yugioh-lp-calculator",
+  "version": "1.0.0",
+  "description": "A web application for calculating Yu-Gi-Oh life points.",
+  "main": "src/js/app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
